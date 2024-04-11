@@ -1,5 +1,5 @@
-# Node.js-notes-
-Learning about Node.js
+# Node.js-notes- (Node. Javascript)
+Learning about Node.js (Runtime environment)
 
 Node.js doesn't stand for any specific words or phrases. The name "Node.js" was chosen because it evokes the idea of nodes in a network or a graph, 
 which reflects its event-driven, non-blocking I/O model. The "js" part refers to JavaScript, the primary programming language used in Node.js development.
@@ -13,7 +13,7 @@ In the context of Node.js, it utilizes a non-blocking, event-driven architecture
 
 
 What is the difference between Blocking and Non blocking model:
-The defference is the Input and the Output of the fuction
+The defference is how they handle the waiting period while excuting or perfoming the Input and the Output of the operations.
 
 Blocking Model:
 In a blocking model, when an I/O operation is initiated, the program halts execution and waits for the operation to complete before moving on to the next task.
